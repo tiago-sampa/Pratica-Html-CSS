@@ -1,2 +1,2 @@
 # Pratica-Html-CSS
- Prática de Html e CSS - Curso em Vídeo
+ Prática de Html5 e CSS3 - Curso em Vídeo
